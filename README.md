@@ -14,9 +14,9 @@
 
 </div>
 
-#### <p align="center">By Vihanga YT| © | Reserved  </br> 
+#### <p align="center">By Crusherxz_xz | © | Reserved  </br> 
 
-# ASTRO-BOT-MD-V1.0
+# CRUSHERXZ-BOT-MD-V1.0
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
