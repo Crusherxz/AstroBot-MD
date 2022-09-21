@@ -20,7 +20,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    [©] AstroBot-MD New Features
+    [©] CRUSHERXZ-MD New Features
 
      > Playstore Apk Downloder [.downapk]
      > Playstore Apk searcher [.apk]
@@ -41,7 +41,6 @@
 
 </p>
 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -55,10 +54,6 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Crusherxz`](https://github.com/vihangayt0)
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
-* [`Sanuwa-Official`](https://github.com/sanuwaofficial)
+)
