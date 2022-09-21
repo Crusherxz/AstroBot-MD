@@ -35,7 +35,7 @@
    
 # Support Group <a href="https://chat.whatsapp.com/G8NlmK5VS1A0t0oglLALMW"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Astro+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Astro+MD+WA+BOT.;CREATED+BY+Crusherxz;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -44,7 +44,7 @@
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/AstroBot-MD/fork)
+2. Click [FORK](https://github.com/Crusherxz/AstroBot-MD/fork)
 
 2. After That Upload Session.json File
 
@@ -56,4 +56,4 @@
 ## Owner:
 * [`Crusherxz`](https://github.com/vihangayt0)
 
-)
+
